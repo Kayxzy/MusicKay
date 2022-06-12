@@ -55,7 +55,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="ᴏᴡɴᴇʀ ʙᴏᴛ", url=f"{SUPPORT_GROUP}"
                 ),
             ],
         ]
@@ -74,7 +74,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
+                    text="ᴄʜ ᴀꜱᴜᴘᴀɴ", url=f"{SUPPORT_CHANNEL}"
                 ),
             ],
         ]
@@ -93,10 +93,10 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
+                    text="ᴄʜ ᴀꜱᴜᴘᴀɴ", url=f"{SUPPORT_CHANNEL}"
                 ),
                 InlineKeyboardButton(
-                    text="📨 ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="ᴏᴡɴᴇʀ ʙᴏᴛ", url=f"{SUPPORT_GROUP}"
                 ),
             ],
         ]
@@ -134,7 +134,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="ᴏᴡɴᴇʀ ʙᴏᴛ", url=f"{SUPPORT_GROUP}"
                 ),
             ],
         ]
@@ -154,7 +154,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
+                    text="ᴄʜ ᴀꜱᴜᴘᴀɴ", url=f"{SUPPORT_CHANNEL}"
                 ),
             ],
         ]
@@ -163,21 +163,16 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 ʜᴇʟᴘ ", callback_data="shikhar"
-                ),
-            ],
-            [
-                InlineKeyboardButton(
                     "➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
-                    url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
-                )
+                    url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                ),
             ],
             [
                 InlineKeyboardButton(
-                    text="📨 ᴄʜᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}"
+                    text="ᴄʜ ᴀꜱᴜᴘᴀɴ", url=f"{SUPPORT_CHANNEL}"
                 ),
                 InlineKeyboardButton(
-                    text="📨 ɢʀᴏᴜᴘ", url=f"{SUPPORT_GROUP}"
+                    text="ᴏᴡɴᴇʀ ʙᴏᴛ", url=f"{SUPPORT_GROUP}"
                 ),
             ],
         ]

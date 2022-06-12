@@ -255,8 +255,8 @@ async def initiate_bot():
     console.print(f"\n[red]Stopping Bot")
 
 
-home_text_pm = f"""ʜᴇʟʟᴏ, ɪ'ᴍ ҡᴀʏ ᴍᴜꜱɪᴄ​ ʙᴏᴛ
-`ɪ'ᴍ ᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ + ꜱᴛʀᴇᴀᴍɪɴɢ ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ`
+home_text_pm = f"""ʜᴇʟʟᴏ, ɪ'ᴀᴍ ᴍᴜꜱɪᴄ​ ҡᴀʏ ʙᴏᴛ
+`ɪ'ᴀᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ᴜꜱᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇꜱ.​`
 All Commands Please Press » /help ! """
 
 
